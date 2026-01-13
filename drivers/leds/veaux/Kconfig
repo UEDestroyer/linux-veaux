@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for leds veaux drivers
+
+config LEDS_VEAUX
+    tristate "Veaux leds support"
+    default n
+    help
+      Enable leds drivers for Veaux (ported from downstream).
+

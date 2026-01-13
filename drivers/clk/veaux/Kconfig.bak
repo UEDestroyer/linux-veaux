@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for clk veaux drivers
+
+config CLK_VEAUX
+    tristate "Veaux clk support"
+    default n
+    help
+      Enable clk drivers for Veaux (ported from downstream).
+

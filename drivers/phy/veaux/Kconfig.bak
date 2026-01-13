@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for phy veaux drivers
+
+config PHY_VEAUX
+    tristate "Veaux phy support"
+    default n
+    help
+      Enable phy drivers for Veaux (ported from downstream).
+

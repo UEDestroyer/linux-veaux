@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for usb veaux drivers
+
+config USB_VEAUX
+    tristate "Veaux usb support"
+    default n
+    help
+      Enable usb drivers for Veaux (ported from downstream).
+

@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for iommu veaux drivers
+
+config IOMMU_VEAUX
+    tristate "Veaux iommu support"
+    default n
+    help
+      Enable iommu drivers for Veaux (ported from downstream).
+

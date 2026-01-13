@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for regulator veaux drivers
+
+config REGULATOR_VEAUX
+    tristate "Veaux regulator support"
+    default n
+    help
+      Enable regulator drivers for Veaux (ported from downstream).
+

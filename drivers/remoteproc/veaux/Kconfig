@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for remoteproc veaux drivers
+
+config REMOTEPROC_VEAUX
+    tristate "Veaux remoteproc support"
+    default n
+    help
+      Enable remoteproc drivers for Veaux (ported from downstream).
+

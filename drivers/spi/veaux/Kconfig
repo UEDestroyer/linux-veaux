@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for spi veaux drivers
+
+config SPI_VEAUX
+    tristate "Veaux spi support"
+    default n
+    help
+      Enable spi drivers for Veaux (ported from downstream).
+

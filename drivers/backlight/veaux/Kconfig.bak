@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for backlight veaux drivers
+
+config BACKLIGHT_VEAUX
+    tristate "Veaux backlight support"
+    default n
+    help
+      Enable backlight drivers for Veaux (ported from downstream).
+

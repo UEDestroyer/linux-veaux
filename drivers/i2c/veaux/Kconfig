@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for i2c veaux drivers
+
+config I2C_VEAUX
+    tristate "Veaux i2c support"
+    default n
+    help
+      Enable i2c drivers for Veaux (ported from downstream).
+

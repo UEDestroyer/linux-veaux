@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for interconnect veaux drivers
+
+config INTERCONNECT_VEAUX
+    tristate "Veaux interconnect support"
+    default n
+    help
+      Enable interconnect drivers for Veaux (ported from downstream).
+

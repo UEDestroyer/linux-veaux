@@ -1,0 +1,8 @@
+menu "Xiaomi Veux support"
+
+config VEAUX_RPMH
+    bool "Veux RPMH support"
+    depends on ARCH_QCOM
+    default n
+
+endmenu

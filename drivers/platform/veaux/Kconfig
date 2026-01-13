@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for platform veaux drivers
+
+config PLATFORM_VEAUX
+    tristate "Veaux platform support"
+    default n
+    help
+      Enable platform drivers for Veaux (ported from downstream).
+

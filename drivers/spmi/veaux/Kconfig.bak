@@ -1,0 +1,8 @@
+# Automatically generated Kconfig for spmi veaux drivers
+
+config SPMI_VEAUX
+    tristate "Veaux spmi support"
+    default n
+    help
+      Enable spmi drivers for Veaux (ported from downstream).
+
