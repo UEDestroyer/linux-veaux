@@ -174,3 +174,13 @@ sphinx_*/
 
 # Rust analyzer configuration
 /rust-project.json
+*.dtb
+*.dtbo
+*.img
+*.bin
+*.o
+*.ko
+*.a
+.config
+out/
+build/

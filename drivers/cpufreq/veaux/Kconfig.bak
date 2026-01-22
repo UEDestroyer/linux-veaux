@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for cpufreq veaux drivers
-
-config CPUFREQ_VEAUX
-    tristate "Veaux cpufreq support"
-    default n
-    help
-      Enable cpufreq drivers for Veaux (ported from downstream).
-

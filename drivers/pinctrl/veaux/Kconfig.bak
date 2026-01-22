@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for pinctrl veaux drivers
-
-config PINCTRL_VEAUX
-    tristate "Veaux pinctrl support"
-    default n
-    help
-      Enable pinctrl drivers for Veaux (ported from downstream).
-

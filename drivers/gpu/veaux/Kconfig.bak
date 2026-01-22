@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for gpu veaux drivers
-
-config GPU_VEAUX
-    tristate "Veaux gpu support"
-    default n
-    help
-      Enable gpu drivers for Veaux (ported from downstream).
-

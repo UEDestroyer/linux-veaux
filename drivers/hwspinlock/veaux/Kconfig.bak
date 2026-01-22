@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for hwspinlock veaux drivers
-
-config HWSPINLOCK_VEAUX
-    tristate "Veaux hwspinlock support"
-    default n
-    help
-      Enable hwspinlock drivers for Veaux (ported from downstream).
-

@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for soc veaux drivers
-
-config SOC_VEAUX
-    tristate "Veaux soc support"
-    default n
-    help
-      Enable soc drivers for Veaux (ported from downstream).
-

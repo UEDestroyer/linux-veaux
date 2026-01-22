@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for media veaux drivers
-
-config MEDIA_VEAUX
-    tristate "Veaux media support"
-    default n
-    help
-      Enable media drivers for Veaux (ported from downstream).
-

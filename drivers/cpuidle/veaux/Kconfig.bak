@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for cpuidle veaux drivers
-
-config CPUIDLE_VEAUX
-    tristate "Veaux cpuidle support"
-    default n
-    help
-      Enable cpuidle drivers for Veaux (ported from downstream).
-

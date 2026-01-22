@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for pwm veaux drivers
-
-config PWM_VEAUX
-    tristate "Veaux pwm support"
-    default n
-    help
-      Enable pwm drivers for Veaux (ported from downstream).
-

@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for thermal veaux drivers
-
-config THERMAL_VEAUX
-    tristate "Veaux thermal support"
-    default n
-    help
-      Enable thermal drivers for Veaux (ported from downstream).
-

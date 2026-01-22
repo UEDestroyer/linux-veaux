@@ -1,2 +1,0 @@
-source "drivers/backlight/veaux/Kconfig"
-source "veaux/Kconfig"

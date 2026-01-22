@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for video veaux drivers
-
-config VIDEO_VEAUX
-    tristate "Veaux video support"
-    default n
-    help
-      Enable video drivers for Veaux (ported from downstream).
-

@@ -1,8 +1,0 @@
-# Automatically generated Kconfig for pmic veaux drivers
-
-config PMIC_VEAUX
-    tristate "Veaux pmic support"
-    default n
-    help
-      Enable pmic drivers for Veaux (ported from downstream).
-
